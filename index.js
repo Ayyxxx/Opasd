@@ -76,7 +76,8 @@ client.on("ready", async () => {
             .setAssetsLargeText(`┆ ʚ📅 ${currentDate} ♡ ⌚${currentTime}ɞ ┆`)
             .setAssetsLargeImage(largeImages[currentLargeImageIndex])
             .setAssetsSmallText('A$t๏r 🖤')
-            .addButton('!JOIN MY DISCORD!', 'https://discord.gg/fakelinkclub')
+            .addButton('เข้าดิส', 'https://discord.gg/charlisy');
+            .addButton('Join Discord', 'https://discord.gg/charlisy');
 
 
         client.user.setActivity(r);
