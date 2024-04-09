@@ -77,7 +77,6 @@ client.on("ready", async () => {
             .setAssetsLargeImage(largeImages[currentLargeImageIndex])
             .setAssetsSmallText('A$t๏r 🖤')
             .addButton('เข้าดิส', 'https://discord.gg/charlisy');
-            .addButton('Join Discord', 'https://discord.gg/charlisy');
 
 
         client.user.setActivity(r);
